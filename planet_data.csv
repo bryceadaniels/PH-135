@@ -1,0 +1,4 @@
+,Mass,Diameter,Density,Gravity,Escape Velocity,Rotation Period,Length of Day,Distance from Sun,Perihelion,Aphelion,Orbital Period,Orbital Velocity,Orbital Inclination,Orbital Eccentricity,Obliquity to Orbit,Mean Temp,Surface Pressure,Number of Moons,Ring System,Global Magnetic Field
+Earth,5.97,12756,5514,9.8,11.2,23.9,24.0,149.6,147.1,152.1,365.2,29.8,0.0,0.017,23.4,15,1.0,1,No,Yes
+Mars,0.642,6792,3934,3.7,5.0,24.6,24.7,228.0,206.7,249.3,687.0,24.1,1.8,0.094,25.2,-65,0.01,2,No,No
+Pluto,0.013,2376,1850,0.7,1.3,-153.3,153.3,5906.4,4436.8,7375.9,90560.0,4.7,17.2,0.244,122.5,-225,1e-05,5,No,Unknown
